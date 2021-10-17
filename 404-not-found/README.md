@@ -10,7 +10,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Oburgos/devchallenges.io/404-not-found">
+    <a href="https://github.com/Oburgos/devchallenges.io/tree/master/404-not-found">
       Solution
     </a>
     <span> | </span>
