@@ -34,9 +34,9 @@
 
 ## Overview
 
-![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_(iPad)+(1).png)
+![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_2.png)
 
-![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_(iPhone+X).png)
+![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_1.png)
 
 ### Built With
 
