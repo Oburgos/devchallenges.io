@@ -34,7 +34,9 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_(iPad)+(1).png)
+
+![screenshot](https://s3.amazonaws.com/oburgos-devchallenges.io/404-not-found/screenshots/oburgos-devchallenges.io.s3-website-us-east-1.amazonaws.com_404-not-found_(iPhone+X).png)
 
 ### Built With
 
